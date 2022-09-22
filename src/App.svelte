@@ -1,5 +1,6 @@
 <script>
   import { fade } from "svelte/transition";
+  import DigitalbyteTimePicker "@digitalbyte/time-picker";
 
   export let id = "";
   export let show = false;

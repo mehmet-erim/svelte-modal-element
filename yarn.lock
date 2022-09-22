@@ -216,6 +216,11 @@
     "exec-sh" "^0.3.2"
     "minimist" "^1.2.0"
 
+"@digitalbyte/time-picker@^0.0.3":
+  "integrity" "sha512-/AduF0QnwV2FZtH8onAECEmNerGO+oywG81Tcx/jmOa9fJra4bYmJDeepVLdqoyp+WIomHk0cYmmWauGqTliig=="
+  "resolved" "https://registry.npmjs.org/@digitalbyte/time-picker/-/time-picker-0.0.3.tgz"
+  "version" "0.0.3"
+
 "@jest/console@^24.7.1", "@jest/console@^24.9.0":
   "integrity" "sha512-Zuj6b8TnKXi3q4ymac8EQfc3ea/uhLeCGThFqXeC8H9/raaH8ARPUTdId+XyGd03Z4In0/VjD2OYFcBF09fNLQ=="
   "resolved" "https://registry.npmjs.org/@jest/console/-/console-24.9.0.tgz"

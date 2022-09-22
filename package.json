@@ -51,6 +51,7 @@
     ]
   },
   "dependencies": {
+    "@digitalbyte/time-picker": "^0.0.3",
     "rollup-plugin-scss": "^1.0.2"
   }
 }
