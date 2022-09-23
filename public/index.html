@@ -485,13 +485,16 @@
 </html>
 
 <script lang="ts">
-    var openButton = document.querySelector('.open-button');
-    var modal = document.querySelector('modal-element');
 
-    openButton.addEventListener('click', function () {
-      modal.setAttribute('show', 'true');
-    });
+  // import { onMount, onDestroy } from "svelte";
+
+       var openButton = document.querySelector('.open-button');
+       var modal = document.querySelector('modal-element');
+
+       openButton.addEventListener('click', function () {
+         modal.setAttribute('show', 'true');
+       });
 
 
-  /* - TimePicker TS code below - */
+     /* - TimePicker TS code below - */
 </script>
